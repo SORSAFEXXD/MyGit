@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Inter Back-end Developer
 ------------------------
 
-Student a Maejo universtity Information technology
+“Turning ideas into delightful, scalable software.”
 
 * 🌍  I'm based in Chaing mai
 
