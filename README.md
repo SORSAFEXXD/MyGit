@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pro.jpg" alt="Thanapat Siriprapasuk" width="180" style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+</p>
+
 # Hi 👋, I'm Thanapat Siriprapasuk
 
 ### 💻 Inter Back-end Developer  
