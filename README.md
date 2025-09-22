@@ -56,9 +56,9 @@ My toolbox (things I work with, explore, and enjoy)
 ## 📊 GitHub Stats & Fun
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="150" />
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=SORSAFEXXD&show_icons=true&hide_title=true" height="150" />
+<img src="https://streak-stats.demolab.com?user=SORSAFEXXD" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SORSAFEXXD&layout=compact" height="150" />
 
 <!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
