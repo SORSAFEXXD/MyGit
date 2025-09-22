@@ -82,7 +82,7 @@ My toolbox (things I work with, explore, and enjoy)
 
 - 💌 Email: **safe.pmk32@gmail.com**  
 - 🐦 DM me on X/Twitter  
-- 🔗 LinkedIn: your profile link
+- 🔗 LinkedIn: [your profile link](https://github.com/SORSAFEXXD)
 
 ---
 
