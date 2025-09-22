@@ -1,64 +1,91 @@
+<!-- Banner / Typing line -->
 <p align="center">
-  <img src="pro.jpg" alt="Thanapat Siriprapasuk" width="180" style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+  <img src="pro.jpg" alt="Thanapat Siriprapasuk" width="170" style="border-radius:50%; box-shadow:0 10px 30px rgba(0,0,0,.2);" />
 </p>
 
-# Hi 👋, I'm Thanapat Siriprapasuk
+<h1 align="center">⛩️ I'm Thanapat (Safe) Siriprapasuk ⛩️</h1>
+<h3 align="center">Inter Back-end Developer | Spring Boot • Java • Flutter</h3>
 
-### 💻 Inter Back-end Developer  
-*"Turning ideas into delightful, scalable software."*
-
----
-
-## 🌍 Location
-📍 Based in **Chiang Mai, Thailand**
-
----
-
-## ⚡ Tech Stack & Tools
 <p align="center">
-<a href="https://spring.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" title="Spring Boot" width="40"/></a>
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="40"/></a>
-<a href="https://dart.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" title="Dart" width="40"/></a>
-<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" title="Go" width="40"/></a>
-<a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" title="Flutter" width="40"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" title="NodeJS" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" title="Docker" width="40"/></a>
-<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" title="Google Cloud" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" title="Linux" width="40"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="40"/></a>
+  <i>"Turning ideas into delightful, scalable software."</i>
 </p>
 
----
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer+who+loves+clean+architecture;Spring+Boot+%7C+Java+%7C+Flutter;APIs%2C+Databases%2C+DevOps+basics;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
-## 🚀 About Me
-- 🌱 Currently learning **Mobile apps & Web Development**  
-- 🛠 Daily driver stack: **Java · Flutter · C++ · JavaScript · Spring Boot / MVC**  
-- 🎯 2025 Goal: **Ship an OSS library / High-impact project**  
-- 📫 Reach me at: **safe.pmk32@gmail.com**  
+</div>
 
 ---
 
-## 🌐 Socials
+## 🔎 About Me
+- 🌍 Based in **Chiang Mai, Thailand**
+- 🌱 Currently learning **Mobile apps & Web Development (Flutter + Spring)**  
+- 🛠 Daily driver stack: **Java · Spring Boot/MVC · Flutter · JavaScript · C++**  
+- 🎯 2025 Goal: **Ship an OSS library / impactful side-project**  
+- 📫 Reach me: **safe.pmk32@gmail.com**
+
+---
+
+## 🧰 Toolbox
+My toolbox (things I work with, explore, and enjoy)
+
+| Domain | Primary | Comfortable | Exploring |
+|---|---|---|---|
+| **Backend** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="36" title="Spring Boot"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" title="Java"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" title="NodeJS"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" title="Go"/> |
+| **Frontend** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" title="HTML5"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" title="React"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" title="Bootstrap"/> |  |
+| **Mobile** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" title="Flutter"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" title="Dart"/> |  |  |
+| **DB/Cloud** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" title="Oracle"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" title="GCP"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" title="Firebase"/> |
+| **DevTools** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" title="Docker"/> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code"/> |  |
+
+---
+
+## ✨ Featured Projects
+> Click to explore my favorite works
+
+| Project | Tech Stack | Highlights | Links |
+|---|---|---|---|
+| **Assessment API (Spring Boot)** | Spring Boot · JPA · REST | CRUD, search by type/name, `/by-type/{type}` endpoint | [Repo](#) |
+| **Project2025 Mobile App** | Flutter · REST | Self-assessment UI, local/remote baseURL config | [Repo](#) |
+| **Clean Architecture Demo** | Java · Spring MVC | Layered modules, DTO/Mapper, tests | [Repo](#) |
+
+> *(ใส่ลิงก์จริงของคุณลงในตารางนี้ได้เลย)*
+
+---
+
+## 📊 GitHub Stats & Fun
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="150" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" height="150" />
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
+
+---
+
+## 🌐 Social Links
 <p align="left">
-<a href="https://www.facebook.com/TnpSafe"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="35"/></a>
-<a href="https://www.twitch.tv/xarleaves"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="35"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="35"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35"/></a>
+  <a href="https://www.facebook.com/TnpSafe"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" title="Facebook"/></a>
+  <a href="https://www.twitch.tv/xarleaves"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" title="Twitch"/></a>
+  <a href="https://twitter.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" title="X/Twitter"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" title="LinkedIn"/></a>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
-> *“Great products are built by great people working together.”*  
+> **“Great products are built by great people working together.”**
 
 - 💌 Email: **safe.pmk32@gmail.com**  
-- 🐦 DM me on [X/Twitter](#)  
-- 🔗 LinkedIn: [Profile](#)
+- 🐦 DM me on X/Twitter  
+- 🔗 LinkedIn: your profile link
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThanapatSiriprapasuk&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" alt="profile views"/>
 </p>
